@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "Tiny Pieces",
+  "base_artist": "ONE OK ROCK",
+  "createdAt": "2026-02-24T06:20:58.143508Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Broken Down In Tiny Pieces",
+      "artist": "Billy \"Crash\" Craddock",
+      "has_synced": false,
+      "path": "select/01_Broken_Down_In_Tiny_Pieces_Billy__Crash__Craddock.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "A Thousand Tiny Pieces",
+      "artist": "The Be Good Tanyas",
+      "has_synced": false,
+      "path": "select/02_A_Thousand_Tiny_Pieces_The_Be_Good_Tanyas.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Tiny Pieces",
+      "artist": "Ghost Town",
+      "has_synced": true,
+      "path": "select/03_Tiny_Pieces_Ghost_Town.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Tiny Pieces Will Always Remain",
+      "artist": "Midas Fall",
+      "has_synced": true,
+      "path": "select/04_Tiny_Pieces_Will_Always_Remain_Midas_Fall.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "A Thousand Tiny Pieces",
+      "artist": "Sean Hayes",
+      "has_synced": true,
+      "path": "select/05_A_Thousand_Tiny_Pieces_Sean_Hayes.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Tiny Pieces",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/06_Tiny_Pieces_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Tiny Pieces",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/07_Tiny_Pieces_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Tiny Pieces",
+      "artist": "ONE OK ROCK",
+      "has_synced": false,
+      "path": "select/pl_01_Tiny_Pieces_ONE_OK_ROCK.txt"
+    }
+  ]
+}
